@@ -8,7 +8,7 @@
 </br>
 
 
-# MAT044 - Probabilidad y Estadística para Ingeniería Civil
+# MAT270 - Análisis Numérico 1
 
 ## Ayudantías de Cátedra
 
