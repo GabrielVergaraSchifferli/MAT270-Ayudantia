@@ -20,6 +20,8 @@ En caso de ayudantías realizadas en RISE Jupyter, todos los códigos se podrán
 
 Desde el ambiente virtual es seguro realizar cambios en los códigos puesto que estarán siendo ejecutadas en el ambiente virtual sin modificar este repositorio.
 
+## Enlace Google Drive
+Link de videos: https://drive.google.com/drive/folders/1An3S9BHuM5r9FQlGX4fFERSi6t1HobGD?usp=sharing
 ## Dudas y consultas
 Todas las dudas y/o consultas enviar a mi correo **gabriel.vergara@sansano.usm.cl** o bien consultar directamente por whatsapp **+56977060184**.
 
